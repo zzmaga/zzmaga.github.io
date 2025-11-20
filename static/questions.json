@@ -86,5 +86,467 @@
             "Constructivist paradigm"
         ],
         "correct_answer": 4
+    },
+    {
+        "id": 9,
+        "question": "A university is restructuring its curriculum to align with EU-level governance policies and the Bologna Process. Which of the following outcomes best reflects the pedagogical shift described in this context?",
+        "options": [
+            "A formal inclusion Of pedagogical theory and teaching methods in the Bologna Declaration",
+            "A renewed emphasis on academic freedom and diverse teaching philosophies",
+            "A decentralization of curriculum standards to encourage institutional experimentation",
+            "A shift toward student-centered education, positioning students as consumers of learning"
+        ],
+        "correct_answer": 4
+    },
+    {
+        "id": 10,
+        "question": "A university is reviewing its teaching model to better support diverse student backgrounds and improve transparency in learning. According to the critique presented in the reading text, which of the following reflects a key strength of Constructive Alignment, while also hinting at its limitation?",
+        "options": [
+            "It allows educators to avoid using outdated teaching methods.",
+            "It helps address the diverse needs of learners and the complexity of educational environments.",
+            "It promotes transparency and student participation, but risks reducing education to measurable goals",
+            "It ensures that only one dominant theory is used across all contexts."
+        ],
+        "correct_answer": 3
+    },
+    {
+        "id": 11,
+        "question": "A course instructor wants students to develop critical thinking skills. She plans to use debates and case studies instead of simple recall quizzes. Based on Bloom’s Taxonomy and the principles of constructive alignment, which cognitive level is she primarily targeting?",
+        "options": [
+            "Analyzing – breaking information into parts to explore relationships",
+            "It helps address the diverse needs of learners and the complexity of educational environments.",
+            "It simplifies curriculum design by eliminating theoretical frameworks.",
+            "It ensures that only one dominant theory is used across all contexts."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 12,
+        "question": "A university administrator is revising the institution’s mission statement to reflect current educational priorities. He/she wants to emphasize student-centered learning and skill development over traditional teaching methods. Based on Biesta’s framework, which trend is he/she most likely aligning with?",
+        "options": [
+            "Educationalization, which uses education to solve social and political issues.",
+            "Learnification, which shifts focus from teaching to learning outcomes and competencies.",
+            "Education as a Private Good, which views education as a personal investment for employability.",
+            "Marketization, which treats degrees as products and focuses on competition."
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 13,
+        "question": "A student realizes halfway through studying that summarizing each paragraph helps them understand the material better than simply rereading. They decide to switch strategies and begin summarizing as they go. Which concept from Cognitive Learning Theory does this behavior best illustrate?",
+        "options": [
+            "It allows educators to avoid using outdated teaching methods.",
+            "It helps address the diverse needs of learners and the complexity of educational environments.",
+            "Metacognition, where learners monitor and regulate their own thinking processes",
+            "It ensures that only one dominant theory is used across all contexts."
+        ],
+        "correct_answer": 3
+    },
+    {
+        "id": 14,
+        "question": "A university is evaluating its educational philosophy. One proposal suggests shifting away from market-driven models and focusing instead on helping students develop ethical judgment, autonomy, and engagement with society. Based on Biesta’s critique of learnification, which principle does this proposal best reflect?",
+        "options": [
+            "Reclaiming teaching as a meaningful act that supports subjectivity and societal purpose",
+            "It helps address the diverse needs of learners and the complexity of educational environments.",
+            "It simplifies curriculum design by eliminating theoretical frameworks.",
+            "It ensures that only one dominant theory is used across all contexts."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 15,
+        "question": "A university is designing a new curriculum based entirely on predefined learning outcomes and measurable objectives. According to the critique presented in the reading chapter, what is the most significant pedagogical limitation of this approach?",
+        "options": [
+            "It allows educators to avoid using outdated teaching methods.",
+            "It could prevent students from engaging with open-ended inquiry and transformative learning",
+            "It simplifies curriculum design by eliminating theoretical frameworks.",
+            "It ensures that only one dominant theory is used across all contexts."
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 16,
+        "question": "A university wants to implement a system-wide teaching reform based on Biggs’ Constructive Alignment model. Which of the following actions would best support this goal?",
+        "options": [
+            "It allows educators to avoid using outdated teaching methods.",
+            "It helps address the diverse needs of learners and the complexity of educational environments.",
+            "Require all courses to use SOLO-taxonomy verbs when formulating learning outcomes",
+            "It ensures that only one dominant theory is used across all contexts."
+        ],
+        "correct_answer": 3
+    },
+    {
+        "id": 17,
+        "question": "A university is revising its faculty evaluation system to emphasize individual responsibility for student learning outcomes. Based on recent developments in teaching excellence and quality assessment, which shift does this reflect?",
+        "options": [
+            "А requirement for teachers to have more prior teaching experience",
+            "А move toward teacher accountability, shifting responsibility from institutions to individual educators",
+            "Аn increase in institutional support for professional development",
+            "А prioritization of research output over teaching effectiveness"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 18,
+        "question": "An education consultant is asked to evaluate a school's new learning model, which treats students as autonomous learners, emphasizes measurable outcomes, and minimizes the teacher's role to that of a facilitator. Based on Biesta's critique, which key concern should the consultant raise?",
+        "options": [
+            "The model encourages too much teacher-centered instruction, limiting student autonomy.",
+            "The model overlooks the importance of content, purpose, and relationships in education.",
+            "The model does not offer sufficient opportunities for students to memorize core facts.",
+            "The model fails to provide enough standardized testing to measure student progress."
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 19,
+        "question": "An instructor wants to design a learning experience where students explore real-world problems, reflect on their experiences, and collaboratively build understanding rather than simply receive information. Based on the text, which learning theory or epistemological approach best supports this method?",
+        "options": [
+            "Behaviorism, which focuses on shaping behavior through reinforcement and punishment.",
+            "Cognitive theory, which focuses on internal mental processes like memory and reasoning.",
+            "Constructivism, which emphasizes learners actively constructing knowledge through experience and reflection.",
+            "Classical conditioning, which explains learning through associations between stimuli and automatic responses."
+        ],
+        "correct_answer": 3
+    },
+    {
+        "id": 20,
+        "question": "A university is revising its hiring and promotion policies to include evaluations of teaching experience and pedagogical philosophy. What organizational strategy does this reflect in the governance of teacher competence?",
+        "options": [
+            "Reducing the importance 0f teaching in career advancement",
+            "Promoting academic freedom in teaching methods",
+            "Encouraging faculty to focus тоге оп research publications",
+            "lnstitutionalizing educational proficiency through performative alignment with norms"
+        ],
+        "correct_answer": 4
+    },
+    {
+        "id": 21,
+        "question": "An academic department is designing a support program to help students improve their academic performance. They want to include strategies that build students' confidence in their abilities and also promote a positive, socially supportive environment. Based on the cognitive learning theory perspectives described in the lecture, which approach would best align with the goals?",
+        "options": [
+            "Encourage students to memorize content through repetition, based оп Classical Conditioning.",
+            "Focus only оп internal beliefs and self-perceptions, following Behavioral Cognitive Theory.",
+            "Emphasize externaI rewards and punishments to shape behavior, based оп Behaviorist Theory.",
+            "Combine internaI motivation with supportive sociaI interactions, reflecting Social Cognitive Theory."
+        ],
+        "correct_answer": 4
+    },
+    {
+        "id": 22,
+        "question": "According to Biggs, a university wants to improve student learning outcomes by redesigning its teaching approach. Which of the following strategies would best align with the principles of Constructive Alignment and Biggs' view of effective learning?",
+        "options": [
+            "Focusing on teacher performance evaluations to improve instructional delivery",
+            "Organizing peer-led activities that promote deep understanding and meta-cognitive reflection",
+            "Assigning students to passive lectures where teachers deliver content based on their expertise",
+            "Encouraging students to memorize key concepts for standardized assessments"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 23,
+        "question": "According to Rancière, the main limitation of institutionalized education is:",
+        "options": [
+            "It creates spaces for intellectual emancipation",
+            "It fails to assess students fairly",
+            "It overemphasizes personalized learning",
+            "It relies on an explanatory logic that sustains inequality"
+        ],
+        "correct_answer": 4
+    },
+    {
+        "id": 24,
+        "question": "Which critique of outcome-oriented models is highlighted in Towards a Pedagogy of Higher Education?",
+        "options": [
+            "They expand academic freedom for teachers",
+            "They overemphasize measurable outcomes and constrain pedagogy",
+            "They are student-centered and promote autonomy",
+            "They reduce standardization in education"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 25,
+        "question": "In competence-based curriculum theory, the 'content of competence' primarily involves:",
+        "options": [
+            "A learner's social background and culture",
+            "Integrated skills, attitudes, and knowledge applied to tasks",
+            "Theories of pedagogy without practice",
+            "Only subject matter knowledge"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 26,
+        "question": "Rancière's axiom of equality implies that:",
+        "options": [
+            "Competency-based education eliminates inequality in assessment",
+            "Intellectual emancipation starts by assuming all learners possess equal intelligence",
+            "Pedagogical freedom relies on standardization",
+            "Teachers should explain content thoroughly to ensure equal comprehension"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 27,
+        "question": "The concept of paratge du sensible (distribution of the sensible) in Rancière's thought means:",
+        "options": [
+            "All students must conform to standardized teaching practices",
+            "Only experts should determine what is pedagogically valuable",
+            "Equality emerges when previously unheard voices claim space in the political/educational orde",
+            "Teachers must filter students' voices to maintain order"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "id": 28,
+        "question": "The term Bildsamkeit means:",
+        "options": [
+            "The learner's capacity for personal development through social interaction",
+            "The systematic alignment of curriculum",
+            "A collective classroom environment that promotes equality",
+            "The preservation of cultural values through teaching"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 29,
+        "question": "Which critique of higher education trends points to education being treated more as a private good rather than a public good?",
+        "options": [
+            "Commodification",
+            "Holistic education",
+            "Standardization",
+            "Outcome-oriented models"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 30,
+        "question": "According to the competence-based curriculum perspective, what distinguishes skills from competence?",
+        "options": [
+            "Competence refers only to factual knowledge; skills refer to conceptual knowledge",
+            "Skills are innate capacities, while competence is learned",
+            "Skills are general and specific learned abilities; competence is broader, encompassing the application of skills, knowledge, and attitudes against standards",
+            "There is no distinction; both terms are interchangeable"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "id": 31,
+        "question": "Which principle emphasizes linking theory with practice so that every lesson has real-life relevance?",
+        "options": [
+            "Principle of Durability of Knowledge",
+            "Principle of Accessibility",
+            "Principle of Scientific Approach",
+            "Principle of Connection Between Theory and Practice"
+        ],
+        "correct_answer": 4
+    },
+    {
+        "id": 32,
+        "question": "In competence-based education, assessment differs from traditional education by:",
+        "options": [
+            "Standardized grading across all learners",
+            "One-time final exams determining credit",
+            "Using comprehensive formative assessments with multiple chances to demonstrate mastery",
+            "Relying only on summative evaluation at the end"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "id": 33,
+        "question": "A university instructor is designing a teacher training module based on Jacques Rancière’s Didaktik-inspired perspective. The instructor wants to foster emancipatory teaching practices. According to this perspective, which approach should he/she prioritize to best support the ethical and existential dimensions of teaching?",
+        "options": [
+            "Integrating digital tools that create measurable student outcomes through standardized assessments",
+            "Promoting competition among students to enhance performance",
+            "Encouraging teachers to acknowledge and engage with the formative and potentially destructive aspects of teaching",
+            "Emphasizing measurable student outcomes through standardized assessments"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "id": 34,
+        "question": "How does Nel Noddings reinterpret Martin Buber’s concept of the I–You relationship in education?",
+        "options": [
+            "By emphasizing standardized goals and measurable outcomes",
+            "By framing the teacher–student relationship as a caring relation",
+            "By promoting strict boundaries between personal and professional roles",
+            "By advocating for mutual academic achievement as the core of teaching"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 35,
+        "question": "Why is research misconduct considered a serious ethical issue?",
+        "options": [
+            "It helps researchers gain recognition faster",
+            "It can lead to loss of trust, waste of resources, and harm to public health",
+            "It is usually corrected by peer reviewers",
+            "It delays publication timelines"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 36,
+        "question": "Why is it important for teachers to understand that their values are multidimensional, as described in Gökçe’s theory?",
+        "options": [
+            "It encourages them to express personal beliefs freely in class",
+            "It limits their ability to adapt to diverse student needs",
+            "It helps them focus only on academic achievement",
+            "It allows them to balance ethical behavior, professional dedication, and cultural responsibility"
+        ],
+        "correct_answer": 4
+    },
+    {
+        "id": 37,
+        "question": "Which best describes the difference between values and ethics?",
+        "options": [
+            "Ethics are legal standards, values are emotional preferences",
+            "Ethics are cultural traditions, values are religious laws",
+            "Values are universal rules, ethics are personal beliefs",
+            "Values are personal beliefs about what is important, ethics are philosophical principles of right or wrong"
+        ],
+        "correct_answer": 4
+    },
+    {
+        "id": 38,
+        "question": "Why is a pluralistic approach to educational paradigms considered beneficial?",
+        "options": [
+            "It allows educators to avoid using outdated teaching methods.",
+            "It helps address the diverse needs of learners and the complexity of educational environments.",
+            "It simplifies curriculum design by eliminating theoretical frameworks.",
+            "It ensures that only one dominant theory is used across all contexts."
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 39,
+        "question": "Why is a pluralistic approach to educational paradigms considered beneficial?",
+        "options": [
+            "It allows educators to avoid using outdated teaching methods.",
+            "It helps address the diverse needs of learners and the complexity of educational environments.",
+            "It simplifies curriculum design by eliminating theoretical frameworks.",
+            "It ensures that only one dominant theory is used across all contexts."
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 40,
+        "question": "Why is a pluralistic approach to educational paradigms considered beneficial?",
+        "options": [
+            "It allows educators to avoid using outdated teaching methods.",
+            "It helps address the diverse needs of learners and the complexity of educational environments.",
+            "It simplifies curriculum design by eliminating theoretical frameworks.",
+            "It ensures that only one dominant theory is used across all contexts."
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 41,
+        "question": "Why is a pluralistic approach to educational paradigms considered beneficial?",
+        "options": [
+            "It allows educators to avoid using outdated teaching methods.",
+            "It helps address the diverse needs of learners and the complexity of educational environments.",
+            "It simplifies curriculum design by eliminating theoretical frameworks.",
+            "It ensures that only one dominant theory is used across all contexts."
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 42,
+        "question": "Why is a pluralistic approach to educational paradigms considered beneficial?",
+        "options": [
+            "It allows educators to avoid using outdated teaching methods.",
+            "It helps address the diverse needs of learners and the complexity of educational environments.",
+            "It simplifies curriculum design by eliminating theoretical frameworks.",
+            "It ensures that only one dominant theory is used across all contexts."
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 43,
+        "question": "Why is a pluralistic approach to educational paradigms considered beneficial?",
+        "options": [
+            "It allows educators to avoid using outdated teaching methods.",
+            "It helps address the diverse needs of learners and the complexity of educational environments.",
+            "It simplifies curriculum design by eliminating theoretical frameworks.",
+            "It ensures that only one dominant theory is used across all contexts."
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 44,
+        "question": "Why is a pluralistic approach to educational paradigms considered beneficial?",
+        "options": [
+            "It allows educators to avoid using outdated teaching methods.",
+            "It helps address the diverse needs of learners and the complexity of educational environments.",
+            "It simplifies curriculum design by eliminating theoretical frameworks.",
+            "It ensures that only one dominant theory is used across all contexts."
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 45,
+        "question": "Why is a pluralistic approach to educational paradigms considered beneficial?",
+        "options": [
+            "It allows educators to avoid using outdated teaching methods.",
+            "It helps address the diverse needs of learners and the complexity of educational environments.",
+            "It simplifies curriculum design by eliminating theoretical frameworks.",
+            "It ensures that only one dominant theory is used across all contexts."
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 46,
+        "question": "Why is a pluralistic approach to educational paradigms considered beneficial?",
+        "options": [
+            "It allows educators to avoid using outdated teaching methods.",
+            "It helps address the diverse needs of learners and the complexity of educational environments.",
+            "It simplifies curriculum design by eliminating theoretical frameworks.",
+            "It ensures that only one dominant theory is used across all contexts."
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 47,
+        "question": "Why is a pluralistic approach to educational paradigms considered beneficial?",
+        "options": [
+            "It allows educators to avoid using outdated teaching methods.",
+            "It helps address the diverse needs of learners and the complexity of educational environments.",
+            "It simplifies curriculum design by eliminating theoretical frameworks.",
+            "It ensures that only one dominant theory is used across all contexts."
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 48,
+        "question": "Why is a pluralistic approach to educational paradigms considered beneficial?",
+        "options": [
+            "It allows educators to avoid using outdated teaching methods.",
+            "It helps address the diverse needs of learners and the complexity of educational environments.",
+            "It simplifies curriculum design by eliminating theoretical frameworks.",
+            "It ensures that only one dominant theory is used across all contexts."
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 49,
+        "question": "Why is a pluralistic approach to educational paradigms considered beneficial?",
+        "options": [
+            "It allows educators to avoid using outdated teaching methods.",
+            "It helps address the diverse needs of learners and the complexity of educational environments.",
+            "It simplifies curriculum design by eliminating theoretical frameworks.",
+            "It ensures that only one dominant theory is used across all contexts."
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 50,
+        "question": "Why is a pluralistic approach to educational paradigms considered beneficial?",
+        "options": [
+            "It allows educators to avoid using outdated teaching methods.",
+            "It helps address the diverse needs of learners and the complexity of educational environments.",
+            "It simplifies curriculum design by eliminating theoretical frameworks.",
+            "It ensures that only one dominant theory is used across all contexts."
+        ],
+        "correct_answer": 2
     }
 ]
