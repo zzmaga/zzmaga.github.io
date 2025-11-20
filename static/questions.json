@@ -1,93 +1,90 @@
 [
     {
         "id": 1,
-        "question": "Что такое Python?",
+        "question": "Which of the following scenarios best illustrates a paradigm shift in pedagogy?",
         "options": [
-            "Язык программирования",
-            "Вид змеи",
-            "Название операционной системы",
-            "Графический редактор"
+            "A university updates its course schedule to include evening classes",
+            "Researchers begin to challenge behaviorist models and adopt constructivist approaches to learning",
+            "A teacher switches from using textbooks to digital resources",
+            "A school adopts a new grading system for student evaluation"
         ],
-        "correct_answer": 1
+        "correct_answer": 2
     },
     {
         "id": 2,
-        "question": "Какой тип данных используется для хранения целых чисел в Python?",
+        "question": "Which of the following statements best reflects Thomas Kuhn’s concept of a scientific paradigm?",
         "options": [
-            "str",
-            "int",
-            "float",
-            "bool"
+            "A temporary hypothesis used to test new scientific ideas",
+            "A collection of unrelated theories used in different scientific disciplines",
+            "A fixed set of rules that scientists must follow to conduct experiments",
+            "A philosophical and theoretical framework that guides scientific research and problem-solving"
         ],
-        "correct_answer": 2
+        "correct_answer": 4
     },
     {
         "id": 3,
-        "question": "Что выведет код: print(2 + 2 * 2)?",
+        "question": "How does a paradigm influence pedagogical research and practice?",
         "options": [
-            "6",
-            "8",
-            "4",
-            "Ошибка"
+            "It mandates the use of standardized testing across all disciplines",
+            "It determines the budget allocation for educational institutions",
+            "It shapes the methods, assumptions, and interpretation of results in educational research",
+            "It eliminates the need for theoretical frameworks in teaching"
         ],
-        "correct_answer": 1
+        "correct_answer": 3
     },
     {
         "id": 4,
-        "question": "Какой метод используется для добавления элемента в конец списка?",
+        "question": "Why is a pluralistic approach to educational paradigms considered beneficial?",
         "options": [
-            "append()",
-            "add()",
-            "insert()",
-            "push()"
+            "It allows educators to avoid using outdated teaching methods.",
+            "It helps address the diverse needs of learners and the complexity of educational environments.",
+            "It simplifies curriculum design by eliminating theoretical frameworks.",
+            "It ensures that only one dominant theory is used across all contexts."
         ],
-        "correct_answer": 1
+        "correct_answer": 2
     },
     {
         "id": 5,
-        "question": "Что такое HTTP?",
+        "question": "Which of the following best defines a paradigm in the context of pedagogy?",
         "options": [
-            "Протокол передачи гипертекста",
-            "Язык программирования",
-            "База данных",
-            "Операционная система"
+            "A set of teaching techniques used to improve classroom engagement",
+            "A curriculum outline used to structure academic programs",
+            "A list of rules for classroom management",
+            "A philosophical and theoretical framework guiding scientific inquiryand educational practices"
         ],
-        "correct_answer": 1
+        "correct_answer": 4
     },
     {
         "id": 6,
-        "question": "Какой символ используется для комментариев в Python?",
+        "question": "Which of the following correctly identifies stages in the Kuhn Cycle of scientific progress?",
         "options": [
-            "//",
-            "#",
-            "/*",
-            "<!--"
-        ],
-        "correct_answer": 2
-    },
-    {
-        "id": 7,
-        "question": "Что такое Git?",
-        "options": [
-            "Система контроля версий",
-            "Язык программирования",
-            "База данных",
-            "Веб-фреймворк"
+            "Pre-science, Normal Science, Model Drift, Model Crisis",
+            "Discovery, Innovation, Application, Evaluation",
+            "Observation, Experimentation, Conclusion, Revision",
+            "Hypothesis Testing, Theory Formation, Peer Review, Publication"
         ],
         "correct_answer": 1
     },
     {
-        "id": 8,
-        "question": "Какой оператор используется для проверки равенства в Python?",
+        "id": 7,
+        "question": "Which of the following statements best describes the role of paradigms in shaping educational goals and practices?",
         "options": [
-            "=",
-            "==",
-            "===",
-            "equals"
+            "Paradigms are irrelevant to the cultural and social context of education.",
+            "Paradigms guide the selection of textbooks and classroom materials.",
+            "Paradigms influence how educational success is defined and how learning is approached.",
+            "Paradigms determine the budget and staffing of educational institutions."
         ],
-        "correct_answer": 2
+        "correct_answer": 3
+    },
+    {
+        "id": 8,
+        "question": "Which of the following paradigms is most aligned with fostering learner engagement and individual knowledge construction?",
+        "options": [
+            "Authoritarian paradigm",
+            "Behaviorist paradigm",
+            "Traditional paradigm",
+            "Constructivist paradigm"
+        ],
+        "correct_answer": 4
     }
 ]
-
-
-
