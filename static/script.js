@@ -9,12 +9,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
 async function loadQuestions() {
     try {
-        const response = await fetch('/api/questions');
+        const response = await fetch('/static/questions.json');
         questions = await response.json();
         
         if (questions.length === 0) {
             document.getElementById('questions-container').innerHTML = 
-                '<div class="loading">Вопросы не найдены. Запустите init_db.py для добавления вопросов.</div>';
+                '<div class="loading">Вопросы не найдены.</div>';
             return;
         }
         
@@ -22,7 +22,7 @@ async function loadQuestions() {
     } catch (error) {
         console.error('Ошибка загрузки вопросов:', error);
         document.getElementById('questions-container').innerHTML = 
-            '<div class="loading">Ошибка загрузки вопросов. Проверьте подключение к серверу.</div>';
+            '<div class="loading">Ошибка загрузки вопросов. Проверьте наличие файла questions.json.</div>';
     }
 }
 
@@ -72,7 +72,7 @@ function renderQuestions() {
     });
 }
 
-async function selectAnswer(questionId, answer) {
+function selectAnswer(questionId, answer) {
     if (userAnswers[questionId]) return; // Уже отвечен
     
     // Отмечаем выбранный вариант
@@ -85,33 +85,34 @@ async function selectAnswer(questionId, answer) {
         }
     });
     
-    // Проверяем ответ
-    try {
-        const response = await fetch(`/api/check_answer/${questionId}/${answer}`);
-        const result = await response.json();
-        
-        userAnswers[questionId] = {
-            answer: answer,
-            correct: result.correct
-        };
-        
-        answeredCount++;
-        
-        // Показываем результат
-        showFeedback(questionId, result.correct, answer);
-        
-        // Отключаем все варианты в этом вопросе
-        options.forEach(opt => {
-            opt.classList.add('disabled');
-            opt.querySelector('input').disabled = true;
-        });
-        
-        // Проверяем, все ли вопросы отвечены
-        if (answeredCount === questions.length) {
-            showResults();
-        }
-    } catch (error) {
-        console.error('Ошибка проверки ответа:', error);
+    // Проверяем ответ локально
+    const question = questions.find(q => q.id === questionId);
+    if (!question) {
+        console.error('Вопрос не найден:', questionId);
+        return;
+    }
+    
+    const isCorrect = (question.correct_answer === answer);
+    
+    userAnswers[questionId] = {
+        answer: answer,
+        correct: isCorrect
+    };
+    
+    answeredCount++;
+    
+    // Показываем результат
+    showFeedback(questionId, isCorrect, answer);
+    
+    // Отключаем все варианты в этом вопросе
+    options.forEach(opt => {
+        opt.classList.add('disabled');
+        opt.querySelector('input').disabled = true;
+    });
+    
+    // Проверяем, все ли вопросы отвечены
+    if (answeredCount === questions.length) {
+        showResults();
     }
 }
 
