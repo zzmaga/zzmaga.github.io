@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 async function loadQuestions() {
     try {
-        const response = await fetch('/static/questions.json');
+        const response = await fetch('static/questions.json');
         questions = await response.json();
         
         if (questions.length === 0) {
