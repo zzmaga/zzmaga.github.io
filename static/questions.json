@@ -408,144 +408,209 @@
     },
     {
         "id": 38,
-        "question": "Why is a pluralistic approach to educational paradigms considered beneficial?",
+        "question": "A teacher notices a student is emotionally distressed but hasn’t spoken up. According to Peter Fleming’s principles, what is the most appropriate response?",
         "options": [
-            "It allows educators to avoid using outdated teaching methods.",
-            "It helps address the diverse needs of learners and the complexity of educational environments.",
-            "It simplifies curriculum design by eliminating theoretical frameworks.",
-            "It ensures that only one dominant theory is used across all contexts."
+            "Refer to another teacher",
+            "Ignore to maintain boundaries",
+            "Privately check in with the student and ensure well-being",
+            "Publicly ask them to explain feelings"
         ],
-        "correct_answer": 2
+        "correct_answer": 3
     },
     {
         "id": 39,
-        "question": "Why is a pluralistic approach to educational paradigms considered beneficial?",
+        "question": "A student plagiarizes a paper but later admits the mistake and rewrites it properly. What process is this an example of?",
         "options": [
-            "It allows educators to avoid using outdated teaching methods.",
-            "It helps address the diverse needs of learners and the complexity of educational environments.",
-            "It simplifies curriculum design by eliminating theoretical frameworks.",
-            "It ensures that only one dominant theory is used across all contexts."
+            "Rectifying",
+            "Denial",
+            "Avoidance",
+            "Justification"
         ],
-        "correct_answer": 2
+        "correct_answer": 1
     },
     {
         "id": 40,
-        "question": "Why is a pluralistic approach to educational paradigms considered beneficial?",
+        "question": "According to Levinas, what ethical stance should educators adopt to respect the “otherness” of students?",
         "options": [
-            "It allows educators to avoid using outdated teaching methods.",
-            "It helps address the diverse needs of learners and the complexity of educational environments.",
-            "It simplifies curriculum design by eliminating theoretical frameworks.",
-            "It ensures that only one dominant theory is used across all contexts."
+            "Encourage reciprocal dialogue",
+            "Focus on measurable outcomes",
+            "Promote shared academic goals",
+            "Attend to the other’s presence"
         ],
-        "correct_answer": 2
+        "correct_answer": 4
     },
     {
         "id": 41,
-        "question": "Why is a pluralistic approach to educational paradigms considered beneficial?",
+        "question": "According to Sharon Todd, which relational mode best supports an ethical response to difference?",
         "options": [
-            "It allows educators to avoid using outdated teaching methods.",
-            "It helps address the diverse needs of learners and the complexity of educational environments.",
-            "It simplifies curriculum design by eliminating theoretical frameworks.",
-            "It ensures that only one dominant theory is used across all contexts."
+            "Practicing active guilt",
+            "Expressing deep empathy",
+            "Engaging in attentive listening",
+            "Demonstrating strong love"
         ],
-        "correct_answer": 2
+        "correct_answer": 3
     },
     {
         "id": 42,
-        "question": "Why is a pluralistic approach to educational paradigms considered beneficial?",
+        "question": "According to Buber (Chapter 6), what must a teacher be able to practice?",
         "options": [
-            "It allows educators to avoid using outdated teaching methods.",
-            "It helps address the diverse needs of learners and the complexity of educational environments.",
-            "It simplifies curriculum design by eliminating theoretical frameworks.",
-            "It ensures that only one dominant theory is used across all contexts."
+            "To develop an exceptional relationship",
+            "To reach specificity of the educational relation",
+            "To establish an I–You relation with the student and to work with the student’s own (but not with the teacher)"
         ],
-        "correct_answer": 2
+        "correct_answer": 3
     },
     {
         "id": 43,
-        "question": "Why is a pluralistic approach to educational paradigms considered beneficial?",
+        "question": "A school administrator is reviewing the institution's mission to ensure it aligns with emancipatory educational principles. Which approach best reflects the public role of the school?",
         "options": [
-            "It allows educators to avoid using outdated teaching methods.",
-            "It helps address the diverse needs of learners and the complexity of educational environments.",
-            "It simplifies curriculum design by eliminating theoretical frameworks.",
-            "It ensures that only one dominant theory is used across all contexts."
+            "Promoting individual achievement as the primary goal of public education",
+            "Encouraging students to engage with shared educational content while recognizing their contextual positions",
+            "Encouraging classroom discussions to teacher-led topics to preserve order and consistency",
+            "Treating all students as neutral individuals to maintain objectivity in public discourse"
         ],
         "correct_answer": 2
     },
     {
         "id": 44,
-        "question": "Why is a pluralistic approach to educational paradigms considered beneficial?",
+        "question": "What concept does Irigaray use to describe the ambiguous proximity and distance in human encounters?",
         "options": [
-            "It allows educators to avoid using outdated teaching methods.",
-            "It helps address the diverse needs of learners and the complexity of educational environments.",
-            "It simplifies curriculum design by eliminating theoretical frameworks.",
-            "It ensures that only one dominant theory is used across all contexts."
+            "The gesture of embrace",
+            "The shape of silence",
+            "The touch of caress",
+            "The rhythm of speech"
         ],
         "correct_answer": 2
     },
     {
         "id": 45,
-        "question": "Why is a pluralistic approach to educational paradigms considered beneficial?",
+        "question": "How should a teacher understand the educational relationship according to Martin Buber's relational philosophy?",
         "options": [
-            "It allows educators to avoid using outdated teaching methods.",
-            "It helps address the diverse needs of learners and the complexity of educational environments.",
-            "It simplifies curriculum design by eliminating theoretical frameworks.",
-            "It ensures that only one dominant theory is used across all contexts."
+            "As a detached interaction where the teacher remains uninvolved in the student's personal development",
+            "As a neutral I-It relationship focused on delivering content efficiently",
+            "As a hybrid relationship containing elements of both I-It and I-You, due to its inherent asymmetry and goal-oriented nature",
+            "As a fully reciprocal I-You relationship where mutual understanding is always achieved"
         ],
-        "correct_answer": 2
+        "correct_answer": 3
     },
     {
         "id": 46,
-        "question": "Why is a pluralistic approach to educational paradigms considered beneficial?",
+        "question": "What concept best captures the ethical dimension of teaching as described by Todd and others?",
         "options": [
-            "It allows educators to avoid using outdated teaching methods.",
-            "It helps address the diverse needs of learners and the complexity of educational environments.",
-            "It simplifies curriculum design by eliminating theoretical frameworks.",
-            "It ensures that only one dominant theory is used across all contexts."
+            "Active moral reasoning",
+            "Structured learning outcomes",
+            "Attuned relational listening",
+            "Passive classroom control"
         ],
-        "correct_answer": 2
+        "correct_answer": 3
     },
     {
         "id": 47,
-        "question": "Why is a pluralistic approach to educational paradigms considered beneficial?",
+        "question": "According to Levinas's ethical philosophy, what must be prioritized in educational relationships to avoid the risk of violence?",
         "options": [
-            "It allows educators to avoid using outdated teaching methods.",
-            "It helps address the diverse needs of learners and the complexity of educational environments.",
-            "It simplifies curriculum design by eliminating theoretical frameworks.",
-            "It ensures that only one dominant theory is used across all contexts."
+            "Responsibility for the other",
+            "Regulation of classroom conduct",
+            "Mutual understanding of goals",
+            "Promotion of shared knowledge"
         ],
-        "correct_answer": 2
+        "correct_answer": 1
     },
     {
         "id": 48,
-        "question": "Why is a pluralistic approach to educational paradigms considered beneficial?",
+        "question": "What is the primary focus of Chapter 9 where the reader is invited to engage in re-imagining teaching at the university?",
         "options": [
-            "It allows educators to avoid using outdated teaching methods.",
-            "It helps address the diverse needs of learners and the complexity of educational environments.",
-            "It simplifies curriculum design by eliminating theoretical frameworks.",
-            "It ensures that only one dominant theory is used across all contexts."
+            "Teacher education dilemmas",
+            "Rethinking university pedagogy",
+            "Revisiting Mollenhauer’s pedagogical thinking",
+            "Risks of institutionalized teaching"
         ],
         "correct_answer": 2
     },
     {
         "id": 49,
-        "question": "Why is a pluralistic approach to educational paradigms considered beneficial?",
+        "question": "What is getting lost in the policy-driven discourse of higher education, as per Chapter 9?",
         "options": [
-            "It allows educators to avoid using outdated teaching methods.",
-            "It helps address the diverse needs of learners and the complexity of educational environments.",
-            "It simplifies curriculum design by eliminating theoretical frameworks.",
-            "It ensures that only one dominant theory is used across all contexts."
+            "The University as a pedagogical form",
+            "Economic sustainability",
+            "Technological integration",
+            "Social equity"
         ],
-        "correct_answer": 2
+        "correct_answer": 1
     },
     {
         "id": 50,
-        "question": "Why is a pluralistic approach to educational paradigms considered beneficial?",
+        "question": "What is a key opportunity for Kazakhstani universities?",
         "options": [
-            "It allows educators to avoid using outdated teaching methods.",
-            "It helps address the diverse needs of learners and the complexity of educational environments.",
-            "It simplifies curriculum design by eliminating theoretical frameworks.",
-            "It ensures that only one dominant theory is used across all contexts."
+            "Limiting student enrollment",
+            "Reducing faculty salaries",
+            "Avoiding curriculum updates",
+            "Promoting research and innovation"
+        ],
+        "correct_answer": 4
+    },
+    {
+        "id": 51,
+        "question": "According to Chapter 9, what risks of institutionalized teaching were highlighted with support from Jacques Rancière and the Didaktik framework?",
+        "options": [
+            "Lack of teacher-student preparation",
+            "Loss of ethical considerations in teaching",
+            "Lack of a corporeal understanding in teaching",
+            "Lack of skepticism in teaching"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "id": 52,
+        "question": "Which field has the highest enrollment in Kazakhstan's universities?",
+        "options": [
+            "Pedagogical Sciences",
+            "Engineering",
+            "Medicine",
+            "Business"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 53,
+        "question": "In the example course mentioned in Chapter 9, what was the initial name of the course?",
+        "options": [
+            "University Pedagogy: A Practical Approach",
+            "Didactical Choices in Student Diversity",
+            "Accessibility and Teaching in Higher Education",
+            "Special Educational Perspectives on Teaching in Higher Education"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "id": 54,
+        "question": "What danger does Chapter 9 associate with models like Constructive Alignment in higher education teaching?",
+        "options": [
+            "Inability to adapt to diverse learning styles",
+            "Overemphasis on student independence",
+            "Deprivation of authentic milieus for study",
+            "Lack of standardized assessment methods"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "id": 55,
+        "question": "What does the Bologna Process promote?",
+        "options": [
+            "Academic mobility and credit transfer",
+            "Privatization of universities",
+            "Reduction of faculty autonomy",
+            "National curriculum standards"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 56,
+        "question": "What does the concept of “accelerated universities” suggest?",
+        "options": [
+            "Slowing down reforms for quality",
+            "Speeding up development through policy",
+            "Focusing only on humanities",
+            "Using traditional Western models"
         ],
         "correct_answer": 2
     }
